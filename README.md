@@ -71,20 +71,7 @@ Admin:
 http://symfony5-skeleton.test/admin
 ```
 
-## Users
-
+MySQL:
 ```
-user@example.com   - User
-admin@example.com  - Admin
+mysql -uroot -p
 ```
-Password: `password`
-
-## Screenshots
-
-![](./doc/login.png)
-
-![](./doc/logged.png)
-
-![](./doc/edit-profile.png)
-
-![](./doc/admin.png)
